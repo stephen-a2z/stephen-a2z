@@ -17,13 +17,13 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
+|[easy-sms-reciever](https://github.com/stephen-a2z/easy-sms-reciever)|A friendly and free SMS verification platform|`1⭐`|
 |[adb_project](https://github.com/stephen-a2z/adb_project)|None|`0⭐`|
 |[bookmarkshub](https://github.com/stephen-a2z/bookmarkshub)|bookmarks online that support customization|`0⭐`|
 |[browerhub](https://github.com/stephen-a2z/browerhub)|None|`0⭐`|
 |[collections](https://github.com/stephen-a2z/collections)|good code|`0⭐`|
 |[crawl4play](https://github.com/stephen-a2z/crawl4play)|我能爬, 但我不爬你, 哎, 我就是玩|`0⭐`|
 |[data_analysis_projects](https://github.com/stephen-a2z/data_analysis_projects)|自我练习使用|`0⭐`|
-|[easy-sms-reciever](https://github.com/stephen-a2z/easy-sms-reciever)|A friendly and free SMS verification platform|`0⭐`|
 |[media-data-mining](https://github.com/stephen-a2z/media-data-mining)|对一些媒体信息(视频, 文章, 音乐等)进行爬取并数据分析|`0⭐`|
 |[ML-notebook](https://github.com/stephen-a2z/ML-notebook)|我的机器学习笔记|`0⭐`|
 |[mv-dl](https://github.com/stephen-a2z/mv-dl)|方便好用的国内视频音乐下载工具|`0⭐`|
@@ -31,6 +31,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[nav](https://github.com/stephen-a2z/nav)|一个导航网站 |![2025-04-06 19:45:14](https://img.shields.io/badge/2025--04--06-19%3A45%3A14-brightgreen?style=flat-square)|
 |[stephen-a2z.github.io](https://github.com/stephen-a2z/stephen-a2z.github.io)|personal page|![2025-04-03 19:01:51](https://img.shields.io/badge/2025--04--03-19%3A01%3A51-brightgreen?style=flat-square)|
 |[strapi-cloud-template-blog-639a9c601d](https://github.com/stephen-a2z/strapi-cloud-template-blog-639a9c601d)|None|![2024-05-07 15:40:43](https://img.shields.io/badge/2024--05--07-15%3A40%3A43-brightgreen?style=flat-square)|
 |[vocabwizard](https://github.com/stephen-a2z/vocabwizard)|None|![2023-04-25 17:12:22](https://img.shields.io/badge/2023--04--25-17%3A12%3A22-brightgreen?style=flat-square)|
@@ -40,8 +41,7 @@
 |[problemsolver](https://github.com/stephen-a2z/problemsolver)|记录一下工作中遇到的一些疑难杂症|![2021-09-21 23:26:44](https://img.shields.io/badge/2021--09--21-23%3A26%3A44-brightgreen?style=flat-square)|
 |[media-data-mining](https://github.com/stephen-a2z/media-data-mining)|对一些媒体信息(视频, 文章, 音乐等)进行爬取并数据分析|![2021-08-13 17:44:40](https://img.shields.io/badge/2021--08--13-17%3A44%3A40-brightgreen?style=flat-square)|
 |[university-bbs](https://github.com/stephen-a2z/university-bbs)|A usniversity bbs develop by flask|![2021-05-22 14:27:46](https://img.shields.io/badge/2021--05--22-14%3A27%3A46-brightgreen?style=flat-square)|
-|[crawl4play](https://github.com/stephen-a2z/crawl4play)|我能爬, 但我不爬你, 哎, 我就是玩|![2021-04-29 17:07:45](https://img.shields.io/badge/2021--04--29-17%3A07%3A45-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2025-04-03 19:47:57*
+*Last updated on: 2025-04-06 20:20:42*
