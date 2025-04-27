@@ -24,13 +24,14 @@
 |[collections](https://github.com/stephen-a2z/collections)|good code|`0⭐`|
 |[crawl4play](https://github.com/stephen-a2z/crawl4play)|我能爬, 但我不爬你, 哎, 我就是玩|`0⭐`|
 |[data_analysis_projects](https://github.com/stephen-a2z/data_analysis_projects)|自我练习使用|`0⭐`|
+|[JSONBank](https://github.com/stephen-a2z/JSONBank)|JSONBank - Daily-Refreshed Data Vault|`0⭐`|
 |[media-data-mining](https://github.com/stephen-a2z/media-data-mining)|对一些媒体信息(视频, 文章, 音乐等)进行爬取并数据分析|`0⭐`|
 |[ML-notebook](https://github.com/stephen-a2z/ML-notebook)|我的机器学习笔记|`0⭐`|
-|[mv-dl](https://github.com/stephen-a2z/mv-dl)|方便好用的国内视频音乐下载工具|`0⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[JSONBank](https://github.com/stephen-a2z/JSONBank)|JSONBank - Daily-Refreshed Data Vault|![2025-04-24 19:21:19](https://img.shields.io/badge/2025--04--24-19%3A21%3A19-brightgreen?style=flat-square)|
 |[stephen-a2z.github.io](https://github.com/stephen-a2z/stephen-a2z.github.io)|personal page|![2025-04-07 00:03:28](https://img.shields.io/badge/2025--04--07-00%3A03%3A28-brightgreen?style=flat-square)|
 |[nav](https://github.com/stephen-a2z/nav)|一个导航网站 |![2025-04-06 21:36:10](https://img.shields.io/badge/2025--04--06-21%3A36%3A10-brightgreen?style=flat-square)|
 |[strapi-cloud-template-blog-639a9c601d](https://github.com/stephen-a2z/strapi-cloud-template-blog-639a9c601d)|None|![2024-05-07 15:40:43](https://img.shields.io/badge/2024--05--07-15%3A40%3A43-brightgreen?style=flat-square)|
@@ -40,8 +41,7 @@
 |[bookmarkshub](https://github.com/stephen-a2z/bookmarkshub)|bookmarks online that support customization|![2022-04-13 18:05:33](https://img.shields.io/badge/2022--04--13-18%3A05%3A33-brightgreen?style=flat-square)|
 |[problemsolver](https://github.com/stephen-a2z/problemsolver)|记录一下工作中遇到的一些疑难杂症|![2021-09-21 23:26:44](https://img.shields.io/badge/2021--09--21-23%3A26%3A44-brightgreen?style=flat-square)|
 |[media-data-mining](https://github.com/stephen-a2z/media-data-mining)|对一些媒体信息(视频, 文章, 音乐等)进行爬取并数据分析|![2021-08-13 17:44:40](https://img.shields.io/badge/2021--08--13-17%3A44%3A40-brightgreen?style=flat-square)|
-|[university-bbs](https://github.com/stephen-a2z/university-bbs)|A usniversity bbs develop by flask|![2021-05-22 14:27:46](https://img.shields.io/badge/2021--05--22-14%3A27%3A46-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2025-04-20 20:21:09*
+*Last updated on: 2025-04-27 20:21:17*
