@@ -31,9 +31,9 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[stephen-a2z.github.io](https://github.com/stephen-a2z/stephen-a2z.github.io)|stephen-a2z.github.io|![2025-05-03 01:16:52](https://img.shields.io/badge/2025--05--03-01%3A16%3A52-brightgreen?style=flat-square)|
+|[nav](https://github.com/stephen-a2z/nav)|一个导航网站 |![2025-04-30 16:45:11](https://img.shields.io/badge/2025--04--30-16%3A45%3A11-brightgreen?style=flat-square)|
 |[JSONBank](https://github.com/stephen-a2z/JSONBank)|JSONBank - Daily-Refreshed Data Vault|![2025-04-24 19:21:19](https://img.shields.io/badge/2025--04--24-19%3A21%3A19-brightgreen?style=flat-square)|
-|[stephen-a2z.github.io](https://github.com/stephen-a2z/stephen-a2z.github.io)|personal page|![2025-04-07 00:03:28](https://img.shields.io/badge/2025--04--07-00%3A03%3A28-brightgreen?style=flat-square)|
-|[nav](https://github.com/stephen-a2z/nav)|一个导航网站 |![2025-04-06 21:36:10](https://img.shields.io/badge/2025--04--06-21%3A36%3A10-brightgreen?style=flat-square)|
 |[strapi-cloud-template-blog-639a9c601d](https://github.com/stephen-a2z/strapi-cloud-template-blog-639a9c601d)|None|![2024-05-07 15:40:43](https://img.shields.io/badge/2024--05--07-15%3A40%3A43-brightgreen?style=flat-square)|
 |[vocabwizard](https://github.com/stephen-a2z/vocabwizard)|None|![2023-04-25 17:12:22](https://img.shields.io/badge/2023--04--25-17%3A12%3A22-brightgreen?style=flat-square)|
 |[browerhub](https://github.com/stephen-a2z/browerhub)|None|![2023-04-18 11:25:51](https://img.shields.io/badge/2023--04--18-11%3A25%3A51-brightgreen?style=flat-square)|
@@ -44,4 +44,4 @@
 
 
 
-*Last updated on: 2025-04-27 20:21:17*
+*Last updated on: 2025-05-04 20:21:56*
